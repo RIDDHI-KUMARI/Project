@@ -1,0 +1,7 @@
+{
+  "name": "dashback",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
